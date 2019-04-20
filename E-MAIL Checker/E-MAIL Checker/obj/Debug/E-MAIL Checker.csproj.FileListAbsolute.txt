@@ -1,0 +1,10 @@
+C:\Users\yassi\Desktop\E-MAIL Checker\E-MAIL Checker\bin\Debug\E-MAIL Checker.exe.config
+C:\Users\yassi\Desktop\E-MAIL Checker\E-MAIL Checker\bin\Debug\E-MAIL Checker.exe
+C:\Users\yassi\Desktop\E-MAIL Checker\E-MAIL Checker\bin\Debug\E-MAIL Checker.pdb
+C:\Users\yassi\Desktop\E-MAIL Checker\E-MAIL Checker\obj\Debug\E-MAIL Checker.csprojAssemblyReference.cache
+C:\Users\yassi\Desktop\E-MAIL Checker\E-MAIL Checker\obj\Debug\E_MAIL_Checker.Form1.resources
+C:\Users\yassi\Desktop\E-MAIL Checker\E-MAIL Checker\obj\Debug\E_MAIL_Checker.Properties.Resources.resources
+C:\Users\yassi\Desktop\E-MAIL Checker\E-MAIL Checker\obj\Debug\E-MAIL Checker.csproj.GenerateResource.cache
+C:\Users\yassi\Desktop\E-MAIL Checker\E-MAIL Checker\obj\Debug\E-MAIL Checker.csproj.CoreCompileInputs.cache
+C:\Users\yassi\Desktop\E-MAIL Checker\E-MAIL Checker\obj\Debug\E-MAIL Checker.exe
+C:\Users\yassi\Desktop\E-MAIL Checker\E-MAIL Checker\obj\Debug\E-MAIL Checker.pdb
